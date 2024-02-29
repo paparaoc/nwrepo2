@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UtDClYiBnJ7CFRauf4cJRk1m3Ri9W47TgTDpufc231MbjdK0qZCn58ZBUr8OQZwouxm0d/Woo5lnfK++MD41rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vmadmin\\source\\repos\\paparaoc\\nwrepo2\\msapp1\\msapp1\\msapp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vmadmin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
